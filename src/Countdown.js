@@ -31,7 +31,7 @@ export default function Countdown({ targetDate }) {
 
   return (
     <div className="countdown">
-      <span>Faltan {timeLeft.days} Dias y {String(timeLeft.hours).padStart(2,'0')} Horas </span>
+      <span>Faltan {timeLeft.days} Días y {String(timeLeft.hours).padStart(2,'0')} Horas </span>
      {/* {String(timeLeft.minutes).padStart(2,'0')} Minutos</span>
      <span>{String(timeLeft.seconds).padStart(2,'0')}Segundos</span>*/}
     </div>
