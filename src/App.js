@@ -45,7 +45,7 @@ function App() {
  />
 
  <p><h1>FECHA Y HORA</h1></p> 
- <p className="l01">Jueves 5 de Junio | 4:00 PM</p>
+ <p className="l01">Jueves 5 de Junio | 3:30 PM</p>
  
  <a
   href={
