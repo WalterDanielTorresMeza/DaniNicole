@@ -8,7 +8,7 @@ function App() {
     <div className="contenedor">
       <div className="invitacion">
   <img
-   src="./a1.png"
+   src="./dani.png"
    alt="Animación celebración"
    className="namenicole"
  />
@@ -48,7 +48,7 @@ function App() {
   rel="noopener noreferrer"
 >
   <img
-    src="/z1.gif"
+    src="/cal.gif"
     alt="Agregar al calendario"
     className="calendar-btn"
   />
@@ -71,7 +71,7 @@ function App() {
     rel="noopener noreferrer"
   >
 <img
-      src="/z2.gif"
+      src="/gps.gif"
       alt="Ver en Google Maps"
       className="map-btn"
 />
