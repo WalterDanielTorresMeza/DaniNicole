@@ -48,7 +48,7 @@ function App() {
   rel="noopener noreferrer"
 >
   <img
-    src="/cal.gif"
+    src="/cal.png"
     alt="Agregar al calendario"
     className="calendar-btn"
   />
@@ -71,7 +71,7 @@ function App() {
     rel="noopener noreferrer"
   >
 <img
-      src="/gps.gif"
+      src="/gps.png"
       alt="Ver en Google Maps"
       className="map-btn"
 />
