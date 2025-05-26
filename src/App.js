@@ -23,8 +23,6 @@ function App() {
    className="li"
  />
 
- <br/>
-        <Countdown targetDate="2025-06-05T00:00:00" />
  <br />
 
  <br />
@@ -36,7 +34,7 @@ function App() {
  />
 
  <p><h1>FECHA Y HORA</h1></p> 
- <p className="l01">Jueves 5 de Junio | 3:30 PM</p>
+ <p className="l01">Jueves 29 de Mayo</p>
  
  <a
   href={
@@ -44,7 +42,7 @@ function App() {
     `&text=${encodeURIComponent('Cumpleaños de Daniela Nicole')}` +
     `&dates=${'20250605'}/${'20250605'}` +           // evento todo el día 5 de junio 
     `&details=${encodeURIComponent('¡No faltes a la celebración!')}` +
-    `&location=${encodeURIComponent('Tlacuachines saloncito de fiestecitas. Qro')}`
+    `&location=${encodeURIComponent('')}`
   }
   target="_blank"
   rel="noopener noreferrer"
