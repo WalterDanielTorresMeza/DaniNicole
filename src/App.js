@@ -13,11 +13,7 @@ function App() {
    className="namenicole"
  />
 
-  <img
-   src="/a2.png"
-   alt="Animación celebración"
-   className="li"
- />
+
 
 <br />
 
