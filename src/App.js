@@ -13,11 +13,6 @@ function App() {
    className="namenicole"
  />
 
-
-
-<br />
-
-<img src="/her1.png" alt="Foto de Daniela Nicol" className="foto-prima" />
 <p className="l01">Te invito a celebrar mis 6 años</p>
 
 <br />
