@@ -76,7 +76,7 @@ function App() {
       className="map-btn"
 />
 </a>
-<p className="l01">Tlacuachines saloncito de fiestecitas. Qro.</p>
+
 <br />
 <img
    src="/a2.png"
@@ -91,23 +91,9 @@ function App() {
    className="li"
 />
 
-<a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScAAnKRULogq9YPwahd-CYVztRIfJ90ublzntzja0-5Zc6OGw/viewform?usp=header"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img
-            src="/aa.gif"     /* Pon aquí la ruta de tu imagen */
-            alt="Confirmar asistencia"
-            className="confirm-btn"  /* Dale la clase que gustes */
-          />
-        </a>
 
-<img
-   src="/pagina.gif"
-   alt="Animación celebración"
-   className="gif-prima"
-/>
+
+
 
 <br />
 
