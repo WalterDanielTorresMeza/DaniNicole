@@ -64,7 +64,7 @@ function App() {
 <p><h1>LUGAR</h1></p>
 <a
     href={
-      'https://www.google.com/maps/place/Tlacuachines+saloncito+de+fiestecitas/@20.528447,-100.4262202,17z/data=!3m1!4b1!4m6!3m5!1s0x85d345397f15651d:0x3e1097555ed26ca1!8m2!3d20.528447!4d-100.4262202!16s%2Fg%2F11krgt8f8n?hl=es-MX&entry=ttu&g_ep=EgoyMDI1MDUxNS4xIKXMDSoASAFQAw%3D%3D' +
+      'https://www.google.com/maps/place/Danaus+School/@20.6160043,-100.3804581,17z/data=!3m1!4b1!4m6!3m5!1s0x85d35c745b968ca5:0x6997a2ca4ca0e68e!8m2!3d20.6160043!4d-100.3804581!16s%2Fg%2F11g9ntycg8?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D' +
       encodeURIComponent('Salón Jardín Alegría, Pachuca, Hidalgo')
     }
     target="_blank"
